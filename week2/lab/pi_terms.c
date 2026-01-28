@@ -1,3 +1,8 @@
+// Eduardo Sarno
+// Jan 13,2026
+// Obs: I paste the question in comments so I don't have to leave the editor to read the quesiton. :)
+
+
 /*
  * Problem 4.26 – Calculating the Value of Pi
  *
